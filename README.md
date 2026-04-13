@@ -127,7 +127,7 @@ directus-assessment/
 - ✔ CI/CD pipelines passing
 - ✔ Artifacts generated successfully
 - ✔ Screenshots provided as proof
-
+  
 ---
 
 ## 👨‍💻 Author
