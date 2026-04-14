@@ -3,7 +3,7 @@
 This repository contains a complete **DevOps implementation** of **Directus (Headless CMS)** deployed on **AWS EC2** using **Docker Compose**, with automated validation using **GitLab CI/CD** and **GitHub Actions**.
 
 ---
-
+ 
 ## 📌 Project Overview
 
 - **Application**: Directus (Headless CMS)
