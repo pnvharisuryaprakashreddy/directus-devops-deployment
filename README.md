@@ -132,5 +132,5 @@ directus-assessment/
 
 ## 👨‍💻 Author
 
-**P N V Hari Surya Prakash Reddy**  
+**P N V Hari Surya Prakash Reddy**
 DevOps Intern Candidate
